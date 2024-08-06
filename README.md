@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/4jaFpJz.png](https://ufile.io/3coy4hnb)" alt="PriVM"/>
+  <img src="https://imgur.com/a/FTg2TMc" alt="PriVM"/>
   <p style="color: #00FF7F">A fast, simple, and highly customizable proxy.</p>
 </div>
 
