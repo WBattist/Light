@@ -3,7 +3,7 @@
   <p style="color: #00FF7F">PriVM | An optimized fork of Light. Using Modded Ultraviolet v3.</p>
 </div>
 
-## Old light ↓
+## Old light ↓ (not privm)
 
 ![inpreview](https://i.imgur.com/DOc2Y4J.png)
 
