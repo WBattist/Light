@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://imgur.com/a/FTg2TMc" alt="PriVM"/>
-  <p style="color: #00FF7F">A fast, simple, and highly customizable proxy.</p>
+  <p style="color: #00FF7F">PriVM | An optimized fork of Light. Using Modded Ultraviolet v3.</p>
 </div>
 
 ![inpreview](https://i.imgur.com/DOc2Y4J.png)
@@ -28,10 +28,13 @@ Server: [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/m
 
 Please run the following commands to host a server:
 
-git clone https://github.com/NightProxy/PriVM.git
-cd PriVM-main
-npm install
-npm start
+```git clone https://github.com/WBattist/PriVM.git```
+
+```cd PriVM-main```
+
+```npm install```
+
+```npm start```
 
 We recommend building on the PriVM branch. If you would like to try on the main branch, do the following steps:
 
